@@ -19,7 +19,7 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, jogos online, educação e com objetivo e mudar a vida das pessoas por meio da programação.
+Apaixonado por tecnologia, jogos online, educação e com objetivo em mudar a vida das pessoas por meio da programação.
 
 Atualmente estudando.
 - Faculdade de Analise e desenvolvimento de sistema; Em andamento.
