@@ -8,8 +8,8 @@ Apaixonado por tecnologia, jogos online e com objetivo em mudar a vida das pesso
 
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RodrigodeOliveiraPeixer&show_icons=true&theme=vision-friendly-dark" alt="RodrigodeOliveiraPeixer's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigodeOliveiraPeixer&layout=compact&theme=vision-friendly-dark" alt="RodrigodeOliveiraPeixer's most languages"/>
+<img width="580em" src="https://github-readme-stats.vercel.app/api?username=RodrigodeOliveiraPeixer&show_icons=true&theme=vision-friendly-dark" alt="RodrigodeOliveiraPeixer's stats"/>
+<img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigodeOliveiraPeixer&layout=compact&theme=vision-friendly-dark" alt="RodrigodeOliveiraPeixer's most languages"/>
 </p>
 
 
