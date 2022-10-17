@@ -33,7 +33,16 @@ Apaixonado por tecnologia, jogos online e com objetivo em mudar a vida das pesso
 
 Atualmente estudando.
 - Faculdade de Analise e desenvolvimento de sistema; Em andamento.
+
 - Curso programação em Python; em andamento.
+* Neste curso de programação em Python estou aprendendo os assuntos abaixo.
+* Lógica de Programação e Algoritmos;
+* Python Fundamentos;
+* Javascript e HTML fundamentos básicos;
+* Banco de Dados(SQL, MYSQL)
+* GIT e GitHub
+* Django
+* Flask
 
 
 Versionamentos feitos no Github realizo todos pelo GIT, assim já estou adaptado com vários comandos.
