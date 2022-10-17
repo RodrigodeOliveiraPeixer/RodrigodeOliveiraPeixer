@@ -39,10 +39,10 @@ Atualmente estudando.
 * Lógica de Programação e Algoritmos;
 * Python Fundamentos;
 * Javascript e HTML fundamentos básicos;
-* Banco de Dados(SQL, MYSQL)
-* GIT e GitHub
-* Django
-* Flask
+* Banco de Dados(SQL, MYSQL);
+* GIT e GitHub;
+* Django;
+* Flask.
 
 
 Versionamentos feitos no Github realizo todos pelo GIT, assim já estou adaptado com vários comandos.
