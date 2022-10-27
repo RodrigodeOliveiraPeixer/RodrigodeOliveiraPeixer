@@ -26,6 +26,7 @@ Apaixonado por tecnologia, jogos online e com objetivo em mudar a vida das pesso
     <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="https://docs.djangoproject.com/pt-br/4.1/"><img height= "35" src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href="https://flask-ptbr.readthedocs.io/en/latest/"><img height= "35" src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 
 </div><br/>
 
