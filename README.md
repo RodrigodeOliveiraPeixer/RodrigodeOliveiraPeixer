@@ -1,7 +1,7 @@
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Rodrigo de Oliveira Peixer</h1>
 
-Apaixonado por tecnologia, jogos online e com objetivo em mudar a vida das pessoas e empresas por meio da programação.
+Entusiasta da tecnologia, mais precisamente pelo desenvolvimento de softwares, com o objetivo de facilitar a vida das pessoas em futuros projetos objetivos e práticos, e contribuir efetivamente nas empresas melhorando a cada dia as minhas soft skills e hard skills, utilizandos as minhas habilidades para alcançar os objetivos pedidos nas empresas.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigodeOliveiraPeixer&color=yellow" alt="Profile views" /> </p>                                                         
 
