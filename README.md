@@ -3,6 +3,8 @@
 
 Entusiasta da tecnologia, mais precisamente pelo desenvolvimento de softwares, com o objetivo de facilitar a vida das pessoas em futuros projetos objetivos e práticos, e contribuir efetivamente nas empresas melhorando a cada dia as minhas soft skills e hard skills, utilizandos as minhas habilidades para alcançar os objetivos pedidos nas empresas.
 
+Apaixonado por jogos Online para descontrair nos momentos de lazer.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigodeOliveiraPeixer&color=yellow" alt="Profile views" /> </p>                                                         
 
 
