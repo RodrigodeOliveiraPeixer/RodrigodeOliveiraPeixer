@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Rodrigo de Oliveira Peixer</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/RodrigodeOliveiraPeixer/RodrigodeOliveiraPeixer/master/hi.gif" height="30px">, Eu sou Rodrigo de Oliveira Peixer</h1>
 
 Entusiasta da tecnologia, mais precisamente pelo desenvolvimento de softwares, com o objetivo de facilitar a vida das pessoas em futuros projetos objetivos e práticos, e contribuir efetivamente nas empresas melhorando a cada dia as minhas soft skills e hard skills, utilizandos as minhas habilidades para alcançar os objetivos pedidos nas empresas.
 
