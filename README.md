@@ -36,8 +36,13 @@ Apaixonado por jogos Online para descontrair nos momentos de lazer.
 
 Atualmente estudando.
 - Faculdade de Analise e desenvolvimento de sistema; Em andamento.
+- MySQL( Criando banco de dados, Melhorando a Estrutura do Banco de Dados, Inserindo Dados na Tabela (INSERT INTO), Alterando a Estrutura da Tabela (ALTER TABLE e DROP TABLE), Manipulando Linhas (UPDATE, DELETE e TRUNCATE), Gerenciando Cópias de Segurança MySQL, Modelo Relacional, Chaves Estrangeiras e JOIN, INNER JOIN com várias tabelas.
+- Banco de dados ( Modelagem de Dados, Implementando Banco de Dados, Administrando Banco de Dados)
 
-- Curso programação em Python; em andamento.
+
+Cursos Concluídos
+
+- Programação em Python;
 * Neste curso de programação em Python estou aprendendo os assuntos abaixo.
 * Lógica de Programação e Algoritmos;
 * Python Fundamentos;
@@ -46,6 +51,11 @@ Atualmente estudando.
 * GIT e GitHub;
 * Django;
 * Flask.
+
+- HTML% e CSS3
+- Excel Avançado
+
+
 
 
 Versionamentos feitos no Github realizo todos pelo GIT, assim já estou adaptado com vários comandos.
